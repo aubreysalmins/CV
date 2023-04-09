@@ -12,8 +12,16 @@ I am currently enrolled at Makers Academy (London), one of the most prestigious 
 My brother who is a senior dev sparked my passion for coding and has been invaluable during my journey to become a developer. With his mentorship and my own self-directed learning, I have gained foundational knowledge in several programming languages. 
 
 
+## Education
+
+At A-level, I attained an A in Greek and B grades in German and English.
 
 
+## Skills
 
+#### Management Experience
+
+
+## Interests
 
 My passions extend to a range of diverse interests, such as art and music, sports, neurobiology, complex biological systems, philosophy, and travel. I find it fascinating to investigate the intersections between these fields and how they can complement each other.
