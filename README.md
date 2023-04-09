@@ -22,7 +22,8 @@ I possess strong leadership, team management, organizational, and communication 
 
 #### Languages
 
-Greek: Fluent, French & German: Conversational
+Greek: Fluent
+French & German: Conversational
 
 ## Interests
 
