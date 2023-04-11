@@ -18,6 +18,8 @@ At A-level, I attained an A in Greek and B grades in German and English.
 
 #### Soft Skills
 
+I am a natural problem solver and I have an ability to grasp abstract concepts and complex systems. The prospect of being able to apply these skills daily in a career is exciting. 
+
 I possess strong leadership, team management, organizational, and communication skills, along with a keen sense of empathy. These skills have been honed through my extensive experience in the hospitality industry, including managing a cafe in a new business. They are highly transferable to the tech industry, where effective collaboration and communication are essential for success.
 
 #### Languages
