@@ -11,6 +11,8 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 
 ## Education
 
+I decided not to go to university because I wanted to explore music. I spend time self-studying and in apprenticeships while working to support the launch of a career. When that side of my personality was satisfied I decided it was time to pursue a more analytical path in technology. 
+
 At A-level, I attained an A in Greek and B grades in German and English.
 
 
