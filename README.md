@@ -30,4 +30,4 @@ Greek (Fluent), French & German (Conversational)
 
 ## Interests
 
-My passions extend to a range of diverse interests, such as art and music, sports, neurobiology, complex biological systems, philosophy, and travel. I find it fascinating investigating the intersections between these fields.
+My passions include art and music, sports, complex biological systems such as neurobiology and endocrinology, philosophy, and travel. I find it fascinating investigating the intersections between these fields.
