@@ -11,9 +11,7 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 
 ## Education
 
-Rather than pursue a conventional education at University, I opted to focus my time on exploring music, a great passion of mine. I have spent time self-studying and in apprenticeships while working to support my musical career.
-
-My current focus is to explore the analytical "left-brain" side of my personality, hence my pursuit of a career in software engineering. I have always been a problem solver at heart so it feels right to be expressing that part of me in the context of software engineering and tech companies and culture.
+Born into a family of career musicians and it being a great passion of mine, I chose to focus on Music in lieu of a university education. However as a natural problem solver and analytical thinker, I was strongly drawn to software engineering when one of my brothers became a data engineer.
 
 At A-level, I attained an A in Greek and B grades in German and English.
 
