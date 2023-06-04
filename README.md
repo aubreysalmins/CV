@@ -13,9 +13,6 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 
 Born into a family of career musicians and it being a great passion of mine, I chose to focus on Music in lieu of a university education. However as a natural problem solver and analytical thinker, I was strongly drawn to software engineering when one of my brothers became a data engineer.
 
-At A-level, I attained an A in Greek and B grades in German and English.
-
-
 ## Skills
 
 #### Soft Skills
