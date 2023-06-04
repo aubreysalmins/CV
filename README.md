@@ -11,6 +11,16 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 
 ## Education
 
+Makers Academy (April 2023 to July 2023)
+16-week intensive development bootcamp
+
+SQL Object-Oriented Programming, Model View Controller design patterns, SOLID principle.
+Test Driven Development to write high quality code using Ruby, JavaScript, RSpec, Jest, Majestic, Cypress, HTML, CSS.
+Debugging our own and pre-written programs.
+Agile principles, pair programming daily, group projects, stand-ups, retros, and sprint planning.
+Web frameworks, version control, and CI/CD to create full stack web apps using Sinatra, React, Node, SQL, PostgreSQL, MongoDB etc.
+Git: branching, pull requests and code reviews
+
 Born into a family of career musicians and it being a great passion of mine, I chose to focus on Music in lieu of a university education. However as a natural problem solver and analytical thinker, I was strongly drawn to software engineering when one of my brothers became a data engineer.
 
 ## Skills
