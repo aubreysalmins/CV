@@ -6,7 +6,11 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 
 ## Projects
 
--Awaiting completion-
+| Studen Directory App       | A Simple Command Line App      | Ruby  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| Student Directory App    | A Simple Command Line App | Ruby |
 
 
 ## Education
