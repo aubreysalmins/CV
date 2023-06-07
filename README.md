@@ -14,7 +14,7 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 Makers Academy (April 2023 to July 2023)
 16-week intensive development bootcamp
 
-SQL Object-Oriented Programming, Model View Controller design patterns, SOLID principle.
+SQL Object-Oriented Programming, Model View Controller design patterns.
 Test Driven Development to write high quality code using Ruby, JavaScript, RSpec, Jest, Majestic, Cypress, HTML, CSS.
 Debugging our own and pre-written programs.
 Agile principles, pair programming daily, group projects, stand-ups, retros, and sprint planning.
