@@ -6,10 +6,10 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 
 ## Projects
 
-| Studen Directory App       | A Simple Command Line App      | Ruby  |
+| Acebook    | A Simple Command Line App      | Ruby  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| Thermostat       |  | $1600 |
+| Twitter Clone Project - Chitter  | centered      |   $12 |
 | Student Directory App    | A Simple Command Line App | Ruby |
 
 
