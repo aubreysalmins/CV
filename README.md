@@ -6,10 +6,10 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 
 ## Projects
 
-| Acebook    | A Simple Command Line App      | Ruby  |
+| Acebook    | A Simple Command Line App      | MongoDB, Express, React, Node, HTML, CSS, Cypress  |
 | ------------- |:-------------:| -----:|
-| Thermostat       |  | $1600 |
-| Twitter Clone Project - Chitter  | centered      |   $12 |
+| |  ||
+| Chitter  | A simple Twitter Clone     |   Ruby, Sinatra, RSPEC, PostgreSQL |
 | Student Directory App    | A Simple Command Line App | Ruby |
 
 
