@@ -8,7 +8,7 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 
 | Project               | Description               | Technologies Used                                 |
 |-----------------------|---------------------------|---------------------------------------------------|
-| Acebook               | A Simple Command Line App | MongoDB, Express, React, Node, HTML, CSS, Cypress |
+| Acebook               | A Facebook Clone using MERN built as a team | MongoDB, Express, React, Node, HTML, CSS, Cypress |
 | Chitter               | A Simple Twitter Clone    | Ruby, Sinatra, RSPEC, PostreSQL                   |
 | Student Directory App | A Simple Command Line App | Ruby                                              |
 
