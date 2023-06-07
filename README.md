@@ -8,7 +8,7 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 
 | Project               | Description               | Technologies Used                                 |
 |-----------------------|---------------------------|---------------------------------------------------|
-| Acebook               | A Facebook Clone using MERN built as a team | MongoDB, Express, React, Node, HTML, CSS, Cypress |
+| Acebook               | A Facebook Clone built as a team | MongoDB, Express, React, Node, HTML, CSS, Cypress |
 | Chitter               | A Simple Twitter Clone    | Ruby, Sinatra, RSPEC, PostreSQL                   |
 | Student Directory App | A Simple Command Line App | Ruby                                              |
 
@@ -18,12 +18,11 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 Makers Academy (April 2023 to July 2023)
 16-week intensive development bootcamp
 
-SQL Object-Oriented Programming, Model View Controller design patterns.
-Test Driven Development to write high quality code using Ruby, JavaScript, RSpec, Jest, Majestic, Cypress, HTML, CSS.
-Debugging our own and pre-written programs.
-Agile principles, pair programming daily, group projects, stand-ups, retros, and sprint planning.
-Web frameworks, version control, and CI/CD to create full stack web apps using Sinatra, React, Node, SQL, PostgreSQL, MongoDB etc.
-Git: branching, pull requests and code reviews
+Languages : Ruby, Javascript, Python, SQL
+Frameworks : React, Next.js, Node.js, Express, Sinatra
+Testing frameworks : Rspec, Jest, Cypress
+Databases : PostgreSQL, MySQL, MongoDB
+Processes : Pair programming, OOP, TDD, Agile (Group projects, Standups, Retros & Sprint Planning), Git/Github (branching, PRs and code reviews), API development, MVC design patterns, Debugging new and legacy code
 
 Born into a family of career musicians and it being a great passion of mine, I chose to focus on Music in lieu of a university education. However as a natural problem solver and analytical thinker, I was strongly drawn to software engineering when one of my brothers became a data engineer.
 
