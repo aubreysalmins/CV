@@ -25,7 +25,7 @@ Makers Academy (April 2023 to July 2023)
 * Processes : Pair programming, OOP, TDD, Agile (Group projects, Standups, Retros & Sprint Planning), 
 * Git/Github (branching, PRs and code reviews), API development, MVC design patterns, Debugging new and legacy code
 
-Born into a family of career musicians and it being a great passion of mine, I chose to focus on Music in lieu of a university education. However as a natural problem solver and analytical thinker, I was strongly drawn to software engineering when one of my brothers became a data engineer.
+Born into a family of career musicians and it being a great passion of mine, I chose to focus on Music in lieu of a university education. As a natural problem solver and analytical thinker, I was strongly drawn to software engineering when one of my brothers became a data engineer.
 
 ## Skills
 
