@@ -8,7 +8,7 @@ My brother who is a senior dev sparked my passion for coding and has been invalu
 
 | Project               | Description               | Technologies Used                                 |
 |-----------------------|---------------------------|---------------------------------------------------|
-| Battle Tetris         | A local 2-player tetris game build in a part-remote team | JavaScript, Node, HTML, CSS, Jest |
+| [Battle Tetris](https://michael-szczepanski.itch.io/battle-tetris)       | A local 2-player tetris game build in a part-remote team | JavaScript, HTML, CSS, Jest |
 | Acebook               | A Facebook Clone built as a team | MongoDB, Express, React, Node, HTML, CSS, Cypress |
 | Chitter               | A Simple Twitter Clone    | Ruby, Sinatra, RSPEC, PostreSQL                   |
 | Student Directory App | A Simple Command Line App | Ruby                                              |
